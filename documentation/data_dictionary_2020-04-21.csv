@@ -1,0 +1,310 @@
+﻿"Variable / Field Name","Form Name","Section Header","Field Type","Field Label","Choices, Calculations, OR Slider Labels","Field Note","Text Validation Type OR Show Slider Number","Text Validation Min","Text Validation Max",Identifier?,"Branching Logic (Show field only if...)","Required Field?","Custom Alignment","Question Number (surveys only)","Matrix Group Name","Matrix Ranking?","Field Annotation"
+record_id,geography_and_intro,,text,"Record ID",,,,,,,,,,,,,
+email,geography_and_intro,,text,"Email address",,,email,,,,,y,,,,,
+first_name,geography_and_intro,,text,"First name",,,,,,y,,,,,,,
+last_name,geography_and_intro,,text,"Last name",,,,,,y,,,,,,,
+country,geography_and_intro,,dropdown,"What country are reporting on?","AFG, Afghanistan | ALA, Aland Islands | ALB, Albania | DZA, Algeria | ASM, American Samoa | AND, Andorra | AGO, Angola | AIA, Anguilla | ATA, Antarctica | ATG, Antigua and Barbuda | ARG, Argentina | ARM, Armenia | ABW, Aruba | AUS, Australia | AUT, Austria | AZE, Azerbaijan | BHS, Bahamas | BHR, Bahrain | BGD, Bangladesh | BRB, Barbados | BLR, Belarus | BEL, Belgium | BLZ, Belize | BEN, Benin | BMU, Bermuda | BTN, Bhutan | BOL, Bolivia (Plurinational State of) | BES, ""Bonaire, Sint Eustatius and Saba"" | BIH, Bosnia and Herzegovina | BWA, Botswana | BVT, Bouvet Island | BRA, Brazil | IOT, British Indian Ocean Territory | BRN, Brunei Darussalam | BGR, Bulgaria | BFA, Burkina Faso | BDI, Burundi | CPV, Cabo Verde | KHM, Cambodia | CMR, Cameroon | CAN, Canada | CYM, Cayman Islands | CAF, Central African Republic | TCD, Chad | CHL, Chile | CHN, China | CXR, Christmas Island | CCK, Cocos (Keeling) Islands | COL, Colombia | COM, Comoros | COG, Congo | COD, ""Congo, Democratic Republic of the"" | COK, Cook Islands | CRI, Costa Rica | CIV, Côte d'Ivoire | HRV, Croatia | CUB, Cuba | CUW, Curaçao | CYP, Cyprus | CZE, Czechia | DNK, Denmark | DJI, Djibouti | DMA, Dominica | DOM, Dominican Republic | ECU, Ecuador | EGY, Egypt | SLV, El Salvador | GNQ, Equatorial Guinea | ERI, Eritrea | EST, Estonia | SWZ, Eswatini | ETH, Ethiopia | FLK, Falkland Islands (Malvinas) | FRO, Faroe Islands | FJI, Fiji | FIN, Finland | FRA, France | GUF, French Guiana | PYF, French Polynesia | ATF, French Southern Territories | GAB, Gabon | GMB, Gambia | GEO, Georgia | DEU, Germany | GHA, Ghana | GIB, Gibraltar | GRC, Greece | GRL, Greenland | GRD, Grenada | GLP, Guadeloupe | GUM, Guam | GTM, Guatemala | GGY, Guernsey | GIN, Guinea | GNB, Guinea-Bissau | GUY, Guyana | HTI, Haiti | HMD, Heard Island and McDonald Islands | VAT, Holy See | HND, Honduras | HKG, Hong Kong | HUN, Hungary | ISL, Iceland | IND, India | IDN, Indonesia | IRN, Iran (Islamic Republic of) | IRQ, Iraq | IRL, Ireland | IMN, Isle of Man | ISR, Israel | ITA, Italy | JAM, Jamaica | JPN, Japan | JEY, Jersey | JOR, Jordan | KAZ, Kazakhstan | KEN, Kenya | KIR, Kiribati | PRK, Korea (Democratic People's Republic of) | KOR, ""Korea, Republic of"" | KWT, Kuwait | KGZ, Kyrgyzstan | LAO, Lao People's Democratic Republic | LVA, Latvia | LBN, Lebanon | LSO, Lesotho | LBR, Liberia | LBY, Libya | LIE, Liechtenstein | LTU, Lithuania | LUX, Luxembourg | MAC, Macao | MDG, Madagascar | MWI, Malawi | MYS, Malaysia | MDV, Maldives | MLI, Mali | MLT, Malta | MHL, Marshall Islands | MTQ, Martinique | MRT, Mauritania | MUS, Mauritius | MYT, Mayotte | MEX, Mexico | FSM, Micronesia (Federated States of) | MDA, ""Moldova, Republic of"" | MCO, Monaco | MNG, Mongolia | MNE, Montenegro | MSR, Montserrat | MAR, Morocco | MOZ, Mozambique | MMR, Myanmar | NAM, Namibia | NRU, Nauru | NPL, Nepal | NLD, Netherlands | NCL, New Caledonia | NZL, New Zealand | NIC, Nicaragua | NER, Niger | NGA, Nigeria | NIU, Niue | NFK, Norfolk Island | MKD, North Macedonia | MNP, Northern Mariana Islands | NOR, Norway | OMN, Oman | PAK, Pakistan | PLW, Palau | PSE, ""Palestine, State of"" | PAN, Panama | PNG, Papua New Guinea | PRY, Paraguay | PER, Peru | PHL, Philippines | PCN, Pitcairn | POL, Poland | PRT, Portugal | PRI, Puerto Rico | QAT, Qatar | REU, Réunion | ROU, Romania | RUS, Russian Federation | RWA, Rwanda | BLM, Saint Barthélemy | SHN, ""Saint Helena, Ascension and Tristan da Cunha"" | KNA, Saint Kitts and Nevis | LCA, Saint Lucia | MAF, Saint Martin (French part) | SPM, Saint Pierre and Miquelon | VCT, Saint Vincent and the Grenadines | WSM, Samoa | SMR, San Marino | STP, Sao Tome and Principe | SAU, Saudi Arabia | SEN, Senegal | SRB, Serbia | SYC, Seychelles | SLE, Sierra Leone | SGP, Singapore | SXM, Sint Maarten (Dutch part) | SVK, Slovakia | SVN, Slovenia | SLB, Solomon Islands | SOM, Somalia | ZAF, South Africa | SGS, South Georgia and the South Sandwich Islands | SSD, South Sudan | ESP, Spain | LKA, Sri Lanka | SDN, Sudan | SUR, Suriname | SJM, Svalbard and Jan Mayen | SWE, Sweden | CHE, Switzerland | SYR, Syrian Arab Republic | TWN, Taiwan | TJK, Tajikistan | TZA, ""Tanzania, United Republic of"" | THA, Thailand | TLS, Timor-Leste | TGO, Togo | TKL, Tokelau | TON, Tonga | TTO, Trinidad and Tobago | TUN, Tunisia | TUR, Turkey | TKM, Turkmenistan | TCA, Turks and Caicos Islands | TUV, Tuvalu | UGA, Uganda | UKR, Ukraine | ARE, United Arab Emirates | GBR, United Kingdom of Great Britain and Northern Ireland | USA, United States of America | UMI, United States Minor Outlying Islands | URY, Uruguay | UZB, Uzbekistan | VUT, Vanuatu | VEN, Venezuela (Bolivarian Republic of) | VNM, Vietnam | VGB, Virgin Islands (British) | VIR, Virgin Islands (U.S.) | WLF, Wallis and Futuna | ESH, Western Sahara | YEM, Yemen | ZMB, Zambia | ZWE, Zimbabwe",,autocomplete,,,,,y,,,,,
+adm1,admin_1_unit_and_updates,,sql,"Administrative 1 Unit (states, provinces etc)
+
+Country: [country]","SELECT GID_1, CONCAT(NAME_0,"" - "",NAME_1)
+FROM `PID_3252_admin_units`
+WHERE NAME_2 = cast((select value from redcap_data where project_id = 3252 and record=[record-name] and field_name='country') as CHAR)",,,,,,,,,,,,
+national_entry,admin_1_unit_and_updates,,yesno,"You have not indicated an first level administrative unit. Are you entering data for national-level policy?",,,,,,,"[adm1]=""""",y,,,,,
+adm_lowest,admin_1_unit_and_updates,,text,"<div class=""rich-text-field-label""><p>Name of the lowest-level administrative division (e.g., name of the city or county, when applicable)</p> <p><em>Leave blank if entering data for country or admin 1 (state/province) unit. </em></p></div>",,,,,,,,,,,,,
+updated_domains,admin_1_unit_and_updates,,checkbox,"Please indicate whether there have been any updates in each of the following policy areas for the geographic area selected. If there are no updates that have been made since the previous update, mark 'no updates.'
+","closed_border_up, Border closures | symp_screening_up, Symptom screening | quar_iso_up, Quarantine and Self-Isolation | household_confined_up, Household confinement | limited_mvt_up, Limiting movement within administrative unit borders | school_closed_up, School closures | nursing_home_closed_up, Nursing homes and long-term care facilities | office_closed_up, Office closures | entertainment_closed_up, Leisure, entertainment and religious venue closures | restaurant_closed_up, Restaurant (dine-in) closures and restrictions | store_closed_up, Retail store closures | public_transport_closed_up, Public transport closures | public_space_closed_up, Public space closures | social_group_limits_up, Limiting gatherings | contact_tracing_up, Contact tracing | testing_symp_up, Testing symptomatic individuals | testing_asymp_up, Testing asymptomatic individuals | enforcement_deployed_up, Military and/or Police Deployment | state_of_emergency_up, State of emergency | mask_up, Mandated face mask use | others_up, Other interventions | mobile_up, Mobile phone interventions (OPTIONAL) | behavior_up, Behavior change interventions (OPTIONAL) | public_funding_up, Public Funding of Research (OPTIONAL) | econ_up, Economic and Social Saftey Net Measures (OPTIONAL) | no_updates, No updates",,,,,,,y,,,,," @NONEOFTHEABOVE=no_updates"
+closed_border_specific,border_closures,"Border Closures",checkbox,"What has changed in terms of restrictions?","1, restrictions for people coming in by air | 2, restrictions for people coming in by land | 3, restrictions for people coming in by sea | 4, restrictions for people leaving by air | 5, restrictions for people leaving by land | 6, restrictions for people leaving by sea",,,,,,,y,,,,,
+closed_border_in_air_status,border_closures,,dropdown,"What is the updated status on restrictions on people coming in by air travel?","1, closed | 2, partially closed | 3, open | 9, unknown",,,,,,[closed_border_specific(1)]=1,y,,,,," @HIDECHOICE='9'"
+closed_border_in_air_pop,border_closures,,dropdown,"For partially closed borders, for which subpopulations are there restrictions for coming in by air travel?","2, geographic subpopulation | 3, other subpopulation",,,,,,"[closed_border_specific(1)]=1 AND [closed_border_in_air_status]=2",y,,,,,
+closed_border_in_air_t,border_closures,,text,"When did this change occur?",,,date_dmy,2019-12-30,,,"[closed_border_specific(1)]=1 AND [closed_border_in_air_status]<>9",y,,,,,
+closed_border_in_air_details,border_closures,,notes,Details,,,,,,,[closed_border_specific(1)]=1,,,,,,
+closed_border_in_land_status,border_closures,,dropdown,"What is the updated status on restrictions related to people coming in by land?","1, closed | 2, partially closed | 3, open | 9, unknown",,,,,,[closed_border_specific(2)]=1,y,,,,," @HIDECHOICE='9'"
+closed_border_in_land_pop,border_closures,,dropdown,"For partially closed borders, for which subpopulations are there restrictions for coming in by land?","2, geographic subpopulation | 3, other subpopulation",,,,,,"[closed_border_specific(2)]=1 AND [closed_border_in_land_status]=2",y,,,,,
+closed_border_in_land_t,border_closures,,text,"When did this change occur?",,,date_dmy,2019-12-30,,,"[closed_border_specific(2)]=1 AND [closed_border_in_land_status]<>9",y,,,,,
+closed_border_in_land_details,border_closures,,notes,Details,,,,,,,[closed_border_specific(2)]=1,,,,,,
+closed_border_in_sea_status,border_closures,,dropdown,"What is the updated status on restrictions on people coming in by sea?","1, closed | 2, partially closed | 3, open | 9, unknown",,,,,,[closed_border_specific(3)]=1,y,,,,," @HIDECHOICE='9'"
+closed_border_in_sea_pop,border_closures,,dropdown,"For partially closed borders, for which subpopulations are there restrictions for coming in by sea?","2, geographic subpopulation | 3, other subpopulation",,,,,,"[closed_border_specific(3)]=1 AND [closed_border_in_sea_status]=2",y,,,,,
+closed_border_in_sea_t,border_closures,,text,"When did this change occur?",,,date_dmy,2019-12-30,,,"[closed_border_specific(3)]=1 AND [closed_border_in_sea_status]<>9",y,,,,,
+closed_border_in_sea_details,border_closures,,notes,Details,,,,,,,[closed_border_specific(3)]=1,,,,,,
+closed_border_out_air_status,border_closures,,dropdown,"What is the updated status on restrictions on people leaving by air travel?","1, closed | 2, partially closed | 3, open | 9, unknown",,,,,,[closed_border_specific(4)]=1,y,,,,," @HIDECHOICE='9'"
+closed_border_out_air_pop,border_closures,,dropdown,"For partially closed borders, for which subpopulations are there restrictions for leaving by air travel?","2, geographic subpopulation | 3, other subpopulation",,,,,,"[closed_border_specific(4)]=1 AND [closed_border_out_air_status]=2",y,,,,,
+closed_border_out_air_t,border_closures,,text,"When did this change occur?",,,date_dmy,2019-12-30,,,"[closed_border_specific(4)]=1 AND [closed_border_out_air_status]<>9",y,,,,,
+closed_border_out_air_details,border_closures,,notes,Details,,,,,,,[closed_border_specific(4)]=1,,,,,,
+closed_border_out_land_status,border_closures,,dropdown,"What is the updated status on restrictions on people leaving by land?","1, closed | 2, partially closed | 3, open | 9, unknown",,,,,,[closed_border_specific(5)]=1,y,,,,," @HIDECHOICE='9'"
+closed_border_out_land_pop,border_closures,,dropdown,"For partially closed borders, for which subpopulations are there restrictions for leaving by land?","2, geographic subpopulation | 3, other subpopulation",,,,,,"[closed_border_specific(5)]=1 AND [closed_border_out_land_status]=2",y,,,,,
+closed_border_out_land_t,border_closures,,text,"When did this change occur?",,,date_dmy,2019-12-30,,,"[closed_border_specific(5)]=1 AND [closed_border_out_land_status]<>9",y,,,,,
+closed_border_out_land_details,border_closures,,notes,Details,,,,,,,[closed_border_specific(5)]=1,,,,,,
+closed_border_out_sea_status,border_closures,,dropdown,"What is the updated status on restrictions on people leaving by sea?","1, closed | 2, partially closed | 3, open | 9, unknown",,,,,,[closed_border_specific(6)]=1,y,,,,," @HIDECHOICE='9'"
+closed_border_out_sea_pop,border_closures,,dropdown,"For partially closed borders, for which subpopulations are there restrictions for leaving by sea?","2, geographic subpopulation | 3, other subpopulation",,,,,,"[closed_border_specific(6)]=1 AND [closed_border_out_sea_status]=2",y,,,,,
+closed_border_out_sea_t,border_closures,,text,"When did this change occur?",,,date_dmy,2019-12-30,,,"[closed_border_specific(6)]=1 AND [closed_border_out_sea_status]<>9",y,,,,,
+closed_border_out_sea_details,border_closures,,notes,Details,,,,,,,[closed_border_specific(6)]=1,,,,,,
+closed_border_source,border_closures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,"([closed_border_specific(1)]=1 AND [closed_border_in_air_status]<>9) OR
+([closed_border_specific(2)]=1 AND [closed_border_in_land_status]<>9) OR
+([closed_border_specific(3)]=1 AND [closed_border_in_sea_status]<>9) OR
+([closed_border_specific(4)]=1 AND [closed_border_out_air_status]<>9) OR
+([closed_border_specific(5)]=1 AND [closed_border_out_land_status]<>9) OR
+([closed_border_specific(6)]=1 AND [closed_border_out_sea_status]<>9)",y,,,,,
+closed_border_url,border_closures,,notes,"Link to source online",,,,,,,"([closed_border_specific(1)]=1 AND [closed_border_in_air_status]<>9) OR
+([closed_border_specific(2)]=1 AND [closed_border_in_land_status]<>9) OR
+([closed_border_specific(3)]=1 AND [closed_border_in_sea_status]<>9) OR
+([closed_border_specific(4)]=1 AND [closed_border_out_air_status]<>9) OR
+([closed_border_specific(5)]=1 AND [closed_border_out_land_status]<>9) OR
+([closed_border_specific(6)]=1 AND [closed_border_out_sea_status]<>9)",,,,,,
+limited_mvt_status,limiting_movement_within_administrative_unit_borde,"<div class=""rich-text-field-label""><p>Limiting Movement within Administrative Unit Borders</p> <p><em>Note:</em><br /><em>- This section captures closures of sub-areas (towns, cities,counties) and closures of roads between them<br />- This section does NOT include household confinement orders (including curfews), quarantine, self-isolation or border closures.</em></p></div>",dropdown,"What is the updated status on restricting movement for individuals within the borders of the administrative unit?","1, fully restricted | 2, partially restricted | 3, unrestricted | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+limited_mvt_pop,limiting_movement_within_administrative_unit_borde,,dropdown,"For partially restricted movement, to which population does this policy apply?","1, entire population|2, geographic subpopulation | 3, other subpopulation",,,,,,[limited_mvt_status]=2,y,,,,,
+limited_mvt_t,limiting_movement_within_administrative_unit_borde,,text,"When did this change occur?",,,date_dmy,2019-12-30,,,,y,,,,,
+limited_mvt_details,limiting_movement_within_administrative_unit_borde,,notes,Details,,,,,,,"[limited_mvt_status] <> 9",,,,,,
+limited_mvt_source,limiting_movement_within_administrative_unit_borde,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,"[limited_mvt_status] <> 9",y,,,,,
+limited_mvt_url,limiting_movement_within_administrative_unit_borde,,notes,url,,,,,,,"[limited_mvt_status] <> 9",,,,,,
+household_confined_status,household_confinement,"<div class=""rich-text-field-label""><p>Household Confinement<br /><br /></p> <p><em>Note: mandates almost always include provisions for leaving home for essential reasons including groceries, medical emergencies and sometimes excercise. note expections in details if possible.</em></p></div>",dropdown,"<div class=""rich-text-field-label""><p>Are there policies restricting people to their households?<br /><br /><em><span style=""font-weight: normal;"">Notes: </span></em></p> <p><em><span style=""font-weight: normal;"">- partial restriction refers to situations where there may be curfews or limited movement during specific periods.</span></em></p> <p><em><span style=""font-weight: normal;"">- this is different from home-isolation of cases and quarantine of potentially exposed groups (see home-isolation/quarantine sub-survey)</span></em></p></div>","1, fully restricted | 2, partially restricted | 3, unrestricted | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+household_confined_pop,household_confinement,,dropdown,"To which population does this policy apply?","1, entire population|2, geographic subpopulation | 3, other subpopulation",,,,,,"[household_confined_status]=2 OR [household_confined_status]=1",y,,,,,
+household_confined_required,household_confinement,,dropdown,"Is this required or only a recommendation?","1, recommended | 2, required | 9, unknown",,,,,,[household_confined_status]<>9,y,,,,,
+household_confined_enforcement,household_confinement,,yesno,"Is this confinement being enforced by police or military?",,,,,,,"[household_confined_status]=1 OR [household_confined_status]=2",,,,,,
+household_confined_t,household_confinement,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[household_confined_status]<>9,y,,,,,
+household_confined_desc,household_confinement,,notes,Details,,,,,,,[household_confined_status]<>9,,,,,,
+household_confined_source,household_confinement,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[household_confined_status]<>9,y,,,,,
+household_confined_url,household_confinement,,notes,url,,,,,,,[household_confined_status]<>9,,,,,,
+quar_iso_choice,quarantine_and_homeisolation,"<div class=""rich-text-field-label""><p>Quarantine<span style=""font-weight: normal;""> specifically refers to separating and restricting the movement of individuals who may have been exposed, but have not shown symptoms nor have been confirmed to have been infected.</span><br /><br />Home-Isolation<span style=""font-weight: normal;""> separates those who are symptomatic or have a confirmed infection.</span><br /><br /><span style=""font-weight: normal;"">See the CDC website for clarification https://www.cdc.gov/quarantine/index.html</span></p></div>",dropdown,"Have policies surrounding both quarantine and home-isolation changed?","1, quarantine only | 2, home-isolation only | 3, both",,,,,,,y,,,,,
+quar_pop,quarantine_and_homeisolation,,checkbox,"For which populations have quarantine measures changed since the last update?","1, travelers | 2, contacts of confirmed cases | 3, contacts of suspected (symptomatic) cases | 4, other",,,,,,"[quar_iso_choice] <> 2",y,,,,,
+quar_travel_status,quarantine_and_homeisolation,,dropdown,"What is the current status of quarantine measures for travelers?","0, none | 1, recommended | 2, required",,,,,,[quar_pop(1)]=1,y,,,,,
+quar_travel_duration,quarantine_and_homeisolation,,text,"<div class=""rich-text-field-label""><p>How long does the quarantine last for travelers? <br /><br /> <em><span style=""font-weight: normal;"">(i.e. this is typically days from arriving but please note if other)</span></em></p></div>",,,number,0,,,[quar_pop(1)]=1,,,,,,
+quar_travel_t,quarantine_and_homeisolation,,text,"Date of policy change (travelers)",,,date_dmy,2019-12-30,,,[quar_pop(1)]=1,y,,,,,
+quar_confirm_status,quarantine_and_homeisolation,,dropdown,"What is the current status of quarantine measures for contacts of confirmed cases?","0, none | 1, recommended | 2, required",,,,,,[quar_pop(2)]=1,y,,,,,
+quar_confirm_duration,quarantine_and_homeisolation,,text,"<div class=""rich-text-field-label""><p>How long does the quarantine last for contacts of confirmed cases? <br /><br /><em><span style=""font-weight: normal;"">(this is typically days since last exposure but please note if other)</span></em></p></div>",,,number,0,,,[quar_pop(2)]=1,,,,,,
+quar_confirm_t,quarantine_and_homeisolation,,text,"Date of policy change (contacts of confirmed cases)",,,date_dmy,2019-12-30,,,[quar_pop(2)]=1,y,,,,,
+quar_suspect_status,quarantine_and_homeisolation,,dropdown,"What is the current status of quarantine measures for contacts of suspected cases?","0, none | 1, recommended | 2, required",,,,,,[quar_pop(3)]=1,y,,,,,
+quar_suspect_duration,quarantine_and_homeisolation,,text,"How long (i.e. days since last exposure) does the quarantine last for contacts of suspected cases? ",,,number,0,,,[quar_pop(3)]=1,,,,,,
+quar_suspect_t,quarantine_and_homeisolation,,text,"Date of policy change (contacts of suspected cases)",,,date_dmy,2019-12-30,,,[quar_pop(3)]=1,y,,,,,
+quar_other_status,quarantine_and_homeisolation,,dropdown,"What is the current status of quarantine measures for the ""other"" population?","0, none | 1, recommended | 2, required",,,,,,[quar_pop(4)]=1,y,,,,,
+quar_other_duration,quarantine_and_homeisolation,,text,"<div class=""rich-text-field-label""><p>How long (i.e. days since last exposure) does the quarantine last for the ""other"" population? <br /><br /><em><span style=""font-weight: normal;"">Describe other population in description field below</span></em></p></div>",,,number,0,,,[quar_pop(4)]=1,,,,,,
+quar_other_t,quarantine_and_homeisolation,,text,"Date of policy change (other)",,,date_dmy,2019-12-30,,,[quar_pop(4)]=1,y,,,,,
+quar_desc,quarantine_and_homeisolation,,notes,"Quarantine Details",,,,,,,"[quar_iso_choice] <> 2",,,,,,
+iso_pop,quarantine_and_homeisolation,,checkbox,"For which populations have home-isolation measures changed since the last update?","1, suspected (symptomatic) cases | 2, non-hospitalized confirmed cases | 3, confirmed cases discharged from the hospital",,,,,,"[quar_iso_choice] <> 1",y,,,,,
+iso_suspect_status,quarantine_and_homeisolation,,dropdown,"What is the current status of home-isolation measures for suspected cases?","0, none | 1, recommended | 2, required",,,,,,[iso_pop(1)]=1,y,,,,,
+iso_suspect_t,quarantine_and_homeisolation,,text,"Date of policy change (suspected cases)",,"if rounding date, please make a note in details",date_dmy,,,,[iso_pop(1)]=1,y,,,,,
+iso_confirm_status,quarantine_and_homeisolation,,dropdown,"What is the current status of home-isolation measures for non-hospitalized confirmed cases?","0, none | 1, recommended | 2, required",,,,,,[iso_pop(2)]=1,y,,,,,
+iso_confirm_t,quarantine_and_homeisolation,,text,"Date of policy change (non-hospitalized confirmed cases)",,"if rounding date, please make a note in details",date_dmy,,,,[iso_pop(2)]=1,y,,,,,
+iso_discharged_status,quarantine_and_homeisolation,,dropdown,"What is the current status of home-isolation measures for discharged confirmed cases?","0, none | 1, recommended | 2, required",,,,,,[iso_pop(3)]=1,y,,,,,
+iso_discharged_t,quarantine_and_homeisolation,,text,"Date of policy change (discharged confirmed cases)",,"if rounding date, please make a note in details",date_dmy,,,y,[iso_pop(3)]=1,y,,,,,
+isolation_desc,quarantine_and_homeisolation,,notes,"Home-Isolation Details",,,,,,,"[quar_iso_choice] <> 1",,,,,,
+quar_iso_source,quarantine_and_homeisolation,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,,y,,,,,
+quar_iso_url,quarantine_and_homeisolation,,notes,"Please provide links (urls) to source document(s). If multiple, separate with a semi-colon.",,,,,,,,,,,,,
+symp_screening_specific,symptom_screening,"Symptom Screening",checkbox,"What aspects of symptom screening policy have changed?","1, screening people coming in by air | 2, screening people coming in by land | 3, screening people coming in by sea| 4, screening at checkpoints within borders",,,,,,,,,,,,
+symp_screening_air_status,symptom_screening,,dropdown,"What is the updated status on symptom screening for those arriving by air?","0, no policy | 1, recommended | 2, required | 9, unknown","no policy' is the same as lack of reccomendation for each type of screening",,,,,[symp_screening_specific(1)]=1,y,,,,," @HIDECHOICE='9'"
+symp_screening_air_pop,symptom_screening,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[symp_screening_specific(1)]=1,y,,,,,
+symp_screening_air_t,symptom_screening,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[symp_screening_specific(1)]=1 AND [symp_screening_air_status]<>9",y,,,,,
+symp_screening_air_details,symptom_screening,,notes,Details,,,,,,,[symp_screening_specific(1)]=1,,,,,,
+symp_screening_land_status,symptom_screening,,dropdown,"What is the updated status on symptom screening for those arriving by land?","0, no policy | 1, recommended | 2, required | 9, unknown",,,,,,[symp_screening_specific(2)]=1,y,,,,," @HIDECHOICE='9'"
+symp_screening_land_pop,symptom_screening,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[symp_screening_specific(2)]=1,y,,,,,
+symp_screening_land_t,symptom_screening,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[symp_screening_specific(2)]=1 AND [symp_screening_land_status]<>9",y,,,,,
+symp_screening_land_details,symptom_screening,,notes,Details,,,,,,,[symp_screening_specific(2)]=1,,,,,,
+symp_screening_sea_status,symptom_screening,,dropdown,"What is the updated status on symptom screening for those arriving by sea?","0, no policy | 1, recommended | 2, required | 9, unknown",,,,,,[symp_screening_specific(3)]=1,y,,,,," @HIDECHOICE='9'"
+symp_screening_sea_pop,symptom_screening,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[symp_screening_specific(3)]=1,y,,,,,
+symp_screening_sea_t,symptom_screening,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[symp_screening_specific(3)]=1 AND [symp_screening_sea_status]<>9",y,,,,,
+symp_screening_sea_details,symptom_screening,,notes,Details,,,,,,,[symp_screening_specific(3)]=1,,,,,,
+symp_screening_within_status,symptom_screening,,dropdown,"What is the updated status on symptom screening for those already within the borders?","0, no policy | 1, recommended | 2, required | 9, unknown","you will be able to specify sub-groups in the next question",,,,,[symp_screening_specific(4)]=1,y,,,,," @HIDECHOICE='9'"
+symp_screening_within_pop,symptom_screening,,dropdown,"To which population does this policy apply?","1, random sample | 2, geographic subpopulation | 3, other subpopulation",,,,,,"[symp_screening_specific(4)]=1 AND [symp_screening_within_status]<>9",y,,,,,
+symp_screening_within_t,symptom_screening,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[symp_screening_specific(4)]=1 AND [symp_screening_within_status]<>9",y,,,,,
+symp_screening_within_details,symptom_screening,,notes,Details,,,,,,,[symp_screening_specific(4)]=1,,,,,,
+symp_screening_source,symptom_screening,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,"([symp_screening_specific(1)]=1 AND [symp_screening_air_status]<>9) OR
+([symp_screening_specific(2)]=1 AND [symp_screening_land_status]<>9) OR
+([symp_screening_specific(3)]=1 AND [symp_screening_sea_status]<>9) OR
+([symp_screening_specific(4)]=1 AND [symp_screening_within_status]<>9)",y,,,,,
+symp_screening_url,symptom_screening,,notes,url,,"(put yes if this first data entry for this admin unit)",,,,,"([symp_screening_specific(1)]=1 AND [symp_screening_air_status]<>9) OR
+([symp_screening_specific(2)]=1 AND [symp_screening_land_status]<>9) OR
+([symp_screening_specific(3)]=1 AND [symp_screening_sea_status]<>9) OR
+([symp_screening_specific(4)]=1 AND [symp_screening_within_status]<>9)",,,,,,
+school_closed_specific,school_closures,"School Closures",checkbox,"What has changed in terms of school closure policy?
+
+Note: Age groups are only an approximation and may differ between regions.","1, nursery school closures (< 5 yrs) | 2, primary school closures (5 - 11 yrs) | 3, secondary school closures (12 - 18 yrs) | 4, post-secondary school closures (>18 yrs) | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+nursery_school_closed_status,school_closures,,dropdown,"What is the updated status related to the closure of nursery schools?","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,[school_closed_specific(1)]=1,y,,,,," @HIDECHOICE='9'"
+nursery_school_closed_pop,school_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[school_closed_specific(1)]=1,y,,,,,
+nursery_school_closed_req,school_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,[school_closed_specific(1)]=1,y,,,,,
+nursery_school_closed_t,school_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"([school_closed_specific(1)]=1 AND [nursery_school_closed_status] <> 9)",y,,,,,
+nursery_school_closed_desc,school_closures,,notes,Details,,,,,,,[school_closed_specific(1)]=1,,,,,,
+primary_school_closed_status,school_closures,,dropdown,"What is the updated status related to the closure of primary schools?","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,[school_closed_specific(2)]=1,y,,,,," @HIDECHOICE='9'"
+primary_school_closed_pop,school_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[school_closed_specific(2)]=1,y,,,,,
+primary_school_closed_req,school_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,[school_closed_specific(2)]=1,y,,,,,
+primary_school_closed_t,school_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[school_closed_specific(2)]=1 AND [primary_school_closed_status] <> 9",y,,,,,
+primary_school_closed_desc,school_closures,,notes,Details,,,,,,,[school_closed_specific(2)]=1,,,,,,
+sec_school_closed_status,school_closures,,dropdown,"What is the updated status related to the closure of secondary schools?","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,[school_closed_specific(3)]=1,y,,,,," @HIDECHOICE='9'"
+sec_school_closed_pop,school_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[school_closed_specific(3)]=1,y,,,,,
+sec_school_closed_req,school_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,[school_closed_specific(3)]=1,y,,,,,
+sec_school_closed_t,school_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[school_closed_specific(3)]=1 AND [sec_school_closed_status] <> 9",y,,,,,
+sec_school_closed_desc,school_closures,,notes,Details,,,,,,,[school_closed_specific(3)]=1,,,,,,
+postsec_school_closed_status,school_closures,,dropdown,"What is the updated status related to the closure of post-secondary schools?","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,[school_closed_specific(4)]=1,y,,,,," @HIDECHOICE='9'"
+postsec_school_closed_pop,school_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[school_closed_specific(4)]=1,y,,,,,
+postsec_school_closed_req,school_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,[school_closed_specific(4)]=1,y,,,,,
+postsec_school_closed_t,school_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[school_closed_specific(4)]=1 AND [postsec_school_closed_status] <> 9",y,,,,,
+postsec_school_closed_desc,school_closures,,notes,Details,,,,,,,[school_closed_specific(4)]=1,,,,,,
+school_closed_source,school_closures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,"([school_closed_specific(1)]=1 AND [nursery_school_closed_status] <> 9) OR
+([school_closed_specific(2)]=1 AND [primary_school_closed_status] <> 9) OR
+([school_closed_specific(3)]=1 AND [sec_school_closed_status] <> 9) OR
+([school_closed_specific(4)]=1 AND [postsec_school_closed_status] <> 9)",y,,,,,
+school_closed_url,school_closures,,notes,url,,,,,,,"([school_closed_specific(1)]=1 AND [nursery_school_closed_status] <> 9) OR
+([school_closed_specific(2)]=1 AND [primary_school_closed_status] <> 9) OR
+([school_closed_specific(3)]=1 AND [sec_school_closed_status] <> 9) OR
+([school_closed_specific(4)]=1 AND [postsec_school_closed_status] <> 9)",,,,,,
+nursing_home_closed_status,nursing_homelongterm_care_closures,"Nursing Home/Long-Term Care Closures",dropdown,"Nursing homes/long-term care facility closures to outside visitors?","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+nursing_home_closed_req,nursing_homelongterm_care_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,,y,,,,,
+nursing_home_closed_pop,nursing_homelongterm_care_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,"[nursing_home_closed_status] <> 9",y,,,,,
+nursing_home_closed_t,nursing_homelongterm_care_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[nursing_home_closed_status] <> 9",y,,,,,
+nursing_home_closed_desc,nursing_homelongterm_care_closures,,notes,Details,,,,,,,,,,,,,
+nursing_home_closed_source,nursing_homelongterm_care_closures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,"[nursing_home_closed_status] <> 9",y,,,,,
+nursing_home_closed_url,nursing_homelongterm_care_closures,,notes,url,,,,,,,"[nursing_home_closed_status] <> 9",,,,,,
+office_closed_status,office_closures,"Office Closures",dropdown,"Offices/work places closed (non-essential)","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,,,,,,," @HIDECHOICE='9'"
+office_closed_pop,office_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation","this is referring to non-essential workplaces not counting medical workers, those involved with food services etc",,,,,[office_closed_status]<>9,y,,,,,
+office_closed_req,office_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,,y,,,,,
+office_closed_t,office_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[office_closed_status]<>9,y,,,,,
+office_closed_desc,office_closures,,notes,Details,,,,,,,,,,,,,
+office_closed_source,office_closures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[office_closed_status]<>9,y,,,,,
+office_closed_url,office_closures,,notes,url,,,,,,,[office_closed_status]<>9,,,,,,
+entertainment_closed_status,leisure_entertainment_and_religious_venue_closures,"Closures of leisure, entertainment and religious venues",dropdown,"<div class=""rich-text-field-label""><p>Closing of leisure, entertainment (e.g., movie theaters, night clubs, gyms) and religious (church) venues.</p> <p> </p> <p><em>Note: there is a separate question about restaurants</em></p></div>","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+entertainment_closed_pop,leisure_entertainment_and_religious_venue_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[entertainment_closed_status]<>9,y,,,,,
+entertainment_closed_req,leisure_entertainment_and_religious_venue_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,,y,,,,,
+entertainment_closed_t,leisure_entertainment_and_religious_venue_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[entertainment_closed_status]<>9,y,,,,,
+entertainment_closed_desc,leisure_entertainment_and_religious_venue_closures,,notes,Details,,,,,,,[entertainment_closed_status]<>9,,,,,,
+entertainment_closed_source,leisure_entertainment_and_religious_venue_closures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[entertainment_closed_status]<>9,y,,,,,
+entertainment_closed_url,leisure_entertainment_and_religious_venue_closures,,notes,url,,,,,,,[entertainment_closed_status]<>9,,,,,,
+restaurant_closed_status,restaurant_closures_and_restrictions,"Restaurants Closures and Restrictions (in-person dining)",dropdown,"Closing of in-person restaurant and bars (does not count delivery or take away)","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,,,,,,," @HIDECHOICE='9'"
+restaurant_closed_pop,restaurant_closures_and_restrictions,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[restaurant_closed_status]<>9,y,,,,,
+restaurant_closed_req,restaurant_closures_and_restrictions,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,autocomplete,,,,,y,,,,,
+restaurant_closed_t,restaurant_closures_and_restrictions,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[restaurant_closed_status]<>9,y,,,,,
+restaurant_closed_desc,restaurant_closures_and_restrictions,,notes,Details,,,,,,,,,,,,,
+restaurant_closed_source,restaurant_closures_and_restrictions,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[restaurant_closed_status]<>9,y,,,,,
+restaurant_closed_url,restaurant_closures_and_restrictions,,notes,url,,,,,,,[restaurant_closed_status]<>9,,,,,,
+restaurant_reduced_up,restaurant_closures_and_restrictions,,dropdown,"Have there been changes to policy related to the maximum number of people allowed in a restaurant?","0, no | 1, yes",,,,,,,y,,,,,
+restaurant_reduced_status,restaurant_closures_and_restrictions,,dropdown,"Limits on maximum capacity for in-person restaurant dining?","0, no | 1, recommended | 2, required | 9, unknown",,,,,,[restaurant_reduced_up]=1,y,,,,,
+restaurant_reduced_max,restaurant_closures_and_restrictions,,text,"Maximum number of people, density or % reduction mandated (specific units should be noted in details):",,,number,,,,"[restaurant_reduced_status]=1 OR [restaurant_reduced_status]=2",,,,,,
+restaurant_reduced_pop,restaurant_closures_and_restrictions,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,"[restaurant_reduced_up]=1 AND [restaurant_reduced_status]<>9",y,,,,,
+restaurant_reduced_t,restaurant_closures_and_restrictions,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[restaurant_reduced_up]=1 AND [restaurant_reduced_status]<>9",y,,,,,
+restaurant_reduced_desc,restaurant_closures_and_restrictions,,notes,Details,,,,,,,"[restaurant_reduced_up]=1 AND [restaurant_reduced_status] <> 9",,,,,,
+restaurant_reduced_source,restaurant_closures_and_restrictions,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,"[restaurant_reduced_up]=1 AND [restaurant_reduced_status] <> 9",y,,,,,
+restaurant_reduced_url,restaurant_closures_and_restrictions,,notes,url,,,,,,,"[restaurant_reduced_up]=1 AND [restaurant_reduced_status] <> 9",,,,,,
+store_closed_status,retail_store_closures,"Retail Store Closures",dropdown,"<div class=""rich-text-field-label""><p>Closing of non-essential stores? (E<em>ssential</em> stores typically include grocery stores, pharmacies, etc.)</p></div>","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+store_closed_pop,retail_store_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[store_closed_status]<>9,y,,,,,
+store_closed_req,retail_store_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,,y,,,,,
+store_closed_t,retail_store_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[store_closed_status]<>9,y,,,,,
+store_closed_desc,retail_store_closures,,notes,Details,,,,,,,[store_closed_status]<>9,,,,,,
+store_closed_source,retail_store_closures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[store_closed_status]<>9,y,,,,,
+store_closed_url,retail_store_closures,,notes,url,,,,,,,[store_closed_status]<>9,,,,,,
+public_transport_closed_status,public_transportation_closures,"Public Transportation Closures",dropdown,"Public transportation closures?","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+public_transport_closed_pop,public_transportation_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[public_transport_closed_status]=1,y,,,,,
+public_transport_closed_req,public_transportation_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,,y,,,,,
+public_transport_closed_t,public_transportation_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[public_transport_closed_status]<>9,y,,,,,
+public_transport_closed_desc,public_transportation_closures,,notes,Details,,,,,,,[public_transport_closed_status]<>9,,,,,,
+public_transport_closed_source,public_transportation_closures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[public_transport_closed_status]<>9,y,,,,,
+public_transport_closed_url,public_transportation_closures,,notes,url,,,,,,,[public_transport_closed_status]<>9,,,,,,
+public_space_closed_status,public_space_closures,"Public Space Closures",dropdown,"Public space closures","0, closed | 1, partially closed | 2, open | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+public_space_closed_pop,public_space_closures,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[public_transport_closed_status]<>9,y,,,,,
+public_space_closed_req,public_space_closures,,dropdown,"Is any aspect of this policy mandatory (versus recommended)?","0, no | 1, yes | 9, unknown",,,,,,,y,,,,,
+public_space_closed_t,public_space_closures,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[public_transport_closed_status]<>9,y,,,,,
+public_space_closed_desc,public_space_closures,,notes,Details,,,,,,,,,,,,,
+public_space_closed_source,public_space_closures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[public_transport_closed_status]<>9,y,,,,,
+public_space_closed_url,public_space_closures,,notes,url,,,,,,,[public_transport_closed_status]<>9,,,,,,
+social_group_limits_status,limiting_gatherings,"Limiting Gatherings",dropdown,"Limits on size of social gatherings","0, no | 1, recommended | 2, required | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+social_group_limits_pop,limiting_gatherings,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[social_group_limits_status]<>9,y,,,,,
+social_group_limits_size,limiting_gatherings,,text,"Gathering size limit (number)",,,integer,,,,"([social_group_limits_status]<>9 OR [social_group_limits_status]<>0)",,,,,,
+social_group_limits_t,limiting_gatherings,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[social_group_limits_status]<>9,y,,,,,
+social_group_limits_desc,limiting_gatherings,,notes,Details,,,,,,,,,,,,,
+social_group_limits_source,limiting_gatherings,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[social_group_limits_status]<>9,y,,,,,
+social_group_limits_url,limiting_gatherings,,notes,url,,,,,,,[social_group_limits_status]<>9,,,,,,
+contact_tracing_status,contact_tracing,"Contact Tracing",dropdown,"What is the policy on contact tracing the contacts of confirmed cases?","0, no contact tracing | 1, complete contact tracing | 2, partial contact tracing | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+contact_tracing_t,contact_tracing,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[contact_tracing_status] <> 9",y,,,,,
+contact_tracing_desc,contact_tracing,,notes,Details,,,,,,,"[contact_tracing_status] <> 9",,,,,,
+contact_tracing_source,contact_tracing,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,"[contact_tracing_status] <> 9",y,,,,,
+contact_tracing_url,contact_tracing,,notes,url,,,,,,,"[contact_tracing_status] <> 9",,,,,,
+testing_symp_status,testing_symptomatic_individuals,"Testing Symptomatic Individuals",dropdown,"Which symptomatic individuals are eligible for testing?","1, none | 2, some | 3, all | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+testing_symp_elg,testing_symptomatic_individuals,,checkbox,"Check current eligibilty critieria for testing","1, age | 2, symptom severity | 3, comorbidity | 4, hospitalization | 5, travel history | 6, contact with case | 7, other potential exposure | 8, other","please provide exact criteria in details section below",,,,,[testing_symp_status]=2,y,,,,,
+testing_symp_t,testing_symptomatic_individuals,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[testing_symp_status]<>9,y,,,,,
+testing_symp_desc,testing_symptomatic_individuals,,notes,Details,,,,,,,[testing_symp_status]<>9,,,,,,
+testing_symp_source,testing_symptomatic_individuals,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[testing_symp_status]<>9,y,,,,,
+testing_symp_url,testing_symptomatic_individuals,,notes,url,,,,,,,[testing_symp_status]<>9,,,,,,
+testing_asymp_status,testing_asymptomatic_individuals,"Testing Asymptomatic Individuals",dropdown,"Which asymptomatic individuals are eligible for testing?","1, none | 2, some | 3, all | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+testing_asymp_elg,testing_asymptomatic_individuals,,checkbox,"Check current eligibilty critieria for testing","1, age | 2, travel history | 3, comorbidities | 4, contact with case | 5, other potential exposure | 6, other","please provide exact criteria in details section below",,,,,[testing_asymp_status]=2,y,,,,,
+testing_asymp_t,testing_asymptomatic_individuals,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[testing_asymp_status]<>9,y,,,,,
+testing_asymp_desc,testing_asymptomatic_individuals,,notes,Details,,,,,,,[testing_asymp_status]<>9,,,,,,
+testing_asymp_source,testing_asymptomatic_individuals,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[testing_asymp_status]<>9,y,,,,,
+testing_asymp_url,testing_asymptomatic_individuals,,notes,url,,,,,,,[testing_asymp_status]<>9,,,,,,
+mask_status,universal_face_mask_policies,"Mandated Mask Use",dropdown,"What is the current policy recommending or requiring the use of face masks in non-symptomatic individuals?","1, none | 2, recommended | 3, required | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+mask_pop,universal_face_mask_policies,,dropdown,"To which population does this policy apply?","1, entire population | 2, geographic subpopulation | 3, demographic subpopulation | 4, other subpopulation",,,,,,"[mask_status]=2 OR [mask_status]=3",y,,,,,
+mask_t,universal_face_mask_policies,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[mask_status]<>9,y,,,,,
+mask_desc,universal_face_mask_policies,,notes,Details,,,,,,,,,,,,,
+mask_source,universal_face_mask_policies,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[mask_status]<>9,y,,,,,
+mask_url,universal_face_mask_policies,,notes,url,,,,,,,[mask_status]<>9,,,,,,
+enforcement_deployed_status,military_and_police_deployment,"Military and Police Deployment",dropdown,"Deployment of military and/or police to enforce COVID-19 related rules/restrictions","0, no | 1, yes | 9, unknown",,,,,,,y,,,,," @HIDECHOICE='9'"
+enforcement_deployed_t,military_and_police_deployment,,text,"Date of policy change",,,date_dmy,2019-12-30,,,[enforcement_deployed_status]<>9,y,,,,,
+enforcement_deployed_desc,military_and_police_deployment,,notes,Details,,,,,,,,,,,,,
+enforcement_deployed_source,military_and_police_deployment,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,[enforcement_deployed_status]<>9,y,,,,,
+enforcement_deployed_url,military_and_police_deployment,,notes,url,,,,,,,[enforcement_deployed_status]<>9,,,,,,
+state_of_emergency_status,state_of_emergency,"State of Emergency",dropdown,"State of emergency declared by authorities? ","0, no | 1, yes | 9, unknown","a legal definition with additional legal powers granted to governments",,,,,,y,,,,," @HIDECHOICE='9'"
+state_of_emergency_t,state_of_emergency,,text,"Date of policy change",,,date_dmy,2019-12-30,,,"[state_of_emergency_status] <>9",y,,,,,
+state_of_emergency_desc,state_of_emergency,,notes,Details,,,,,,,,,,,,,
+state_of_emergency_source,state_of_emergency,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,"[state_of_emergency_status] <>9",y,,,,,
+state_of_emergency_url,state_of_emergency,,notes,url,,,,,,,"[state_of_emergency_status] <>9",,,,,,
+other_intervention_desc,other_interventions,,notes,"Add a description of this 'other' intervention:",,,,,,,,,,,,,
+other_intervention_event,other_interventions,,dropdown,"How has this policy intervention changed?","1, intervention started | 2, intervention changed | 3, intervention stopped",,,,,,,,,,,,
+other_intervention_t,other_interventions,,text,"When did this change occur?",,,date_ymd,,,,,,,,,,
+other_intervention_source,other_interventions,,file,"Source document",,,,,,,,,,,,,
+other_intervention_url,other_interventions,,notes,"url for source(s)",,,,,,,,,,,,,
+other_intervention_add,other_interventions,,yesno,"Would you like to update for another 'other' intervention?",,,,,,,,,,,,,
+other_intervention_2_desc,other_interventions,,notes,"Add a description of this 'other' intervention:",,,,,,,[other_intervention_add]=1,,,,,,
+other_intervention_2_event,other_interventions,,dropdown,"How has this policy intervention changed?","1, intervention started | 2, intervention changed | 3, intervention stopped",,,,,,[other_intervention_add]=1,,,,,,
+other_intervention_2_t,other_interventions,,text,"When did this change occur?",,,date_ymd,,,,[other_intervention_add]=1,,,,,,
+other_intervention_2_source,other_interventions,,file,"Source document",,,,,,,[other_intervention_add]=1,,,,,,
+other_intervention_2_url,other_interventions,,notes,"url for source(s)",,,,,,,[other_intervention_add]=1,,,,,,
+other_intervention_add_2,other_interventions,,yesno,"Would you like to update for another 'other' intervention?",,,,,,,[other_intervention_add]=1,,,,,,
+other_intervention_3_desc,other_interventions,,notes,"Add a description of this 'other' intervention:",,,,,,,[other_intervention_add_2]=1,,,,,,
+other_intervention_3_event,other_interventions,,dropdown,"How has this policy intervention changed?","1, intervention started | 2, intervention changed | 3, intervention stopped",,,,,,[other_intervention_add_2]=1,,,,,,
+other_intervention_3_t,other_interventions,,text,"When did this change occur?",,,date_ymd,,,,[other_intervention_add_2]=1,,,,,,
+other_intervention_3_source,other_interventions,,file,"Source document",,,,,,,[other_intervention_add_2]=1,,,,,,
+other_intervention_3_url,other_interventions,,notes,"url for source(s)",,,,,,,[other_intervention_add_2]=1,,,,,,
+mobile_phone_law_status,optional_mobile_phone_interventions,,yesno,"Have privacy or telecommunication laws (related to COVID-19) been changed since the last update?
+",,,,,,,,,,,,,
+mobile_phone_law_t,optional_mobile_phone_interventions,,text,"Date of policy change (privacy and telecommunications law)",,,date_dmy,2019-12-30,,,[mobile_phone_law_status]=1,,,,,,
+mobile_phone_use_status,optional_mobile_phone_interventions,,checkbox,"Were any of the following policies surrounding phones changed? 
+
+","1, use of mobile phones to disseminate information/recommendations | 2, use of mobile device geolocation data to identify contacts | 3, use of mobile device geolocation data to enforce isolation/quarantine",,,,,,,,,,,,
+mobile_phone_dissem_t,optional_mobile_phone_interventions,,text,"Date of policy change (disseminate information)",,,date_dmy,2019-12-30,,,[mobile_phone_use_status(1)]=1,,,,,,
+mobile_dissem_pop,optional_mobile_phone_interventions,,dropdown,"To which population does this apply (disseminate information)?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[mobile_phone_use_status(1)]=1,,,,,,
+mobile_phone_contact_t,optional_mobile_phone_interventions,,text,"Date of policy change (geolocate contacts)",,,date_dmy,2019-12-30,,,[mobile_phone_use_status(2)]=1,,,,,,
+mobile_dissem_contact,optional_mobile_phone_interventions,,dropdown,"To which population does this apply (geolocate contacts)?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[mobile_phone_use_status(2)]=1,,,,,,
+mobile_phone_iso_t,optional_mobile_phone_interventions,,text,"Date of policy change (enforce isolation)",,,date_dmy,2019-12-30,,,[mobile_phone_use_status(3)]=1,,,,,,
+mobile_dissem_iso,optional_mobile_phone_interventions,,dropdown,"To which population does this apply (enforce isolation)?","1, entire population | 2, geographic subpopulation | 3, other subpopulation",,,,,,[mobile_phone_use_status(3)]=1,,,,,,
+mobile_phone_desc,optional_mobile_phone_interventions,,notes,Details,,,,,,,,,,,,,
+mobile_phone_source,optional_mobile_phone_interventions,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,,,,,,,
+mobile_phone_url,optional_mobile_phone_interventions,,notes,url,,,,,,,,,,,,,
+behave_change_type_status,optional_behavior_change_interventions,,checkbox,"Were any of the following policies surrounding behavior change campaigns changed? 
+
+","1, General public awareness campaigns | 2, Handwashing communications | 3, Social distancing communications",,,,,,,,,,,,
+behave_change_general_t,optional_behavior_change_interventions,,text,"Date of policy change (general campaign)",,,date_dmy,2019-12-30,,,[behave_change_type_status(1)]=1,,,,,,
+behave_change_handw_t,optional_behavior_change_interventions,,text,"Date of policy change (handwashing communications)",,,date_dmy,2019-12-30,,,[behave_change_type_status(2)]=1,,,,,,
+behave_change_sociald_t,optional_behavior_change_interventions,,text,"Date of policy change (social distancing)",,,date_dmy,2019-12-30,,,[behave_change_type_status(3)]=1,,,,,,
+behavior_change_desc,optional_behavior_change_interventions,,notes,Details,,,,,,,,,,,,,
+behavior_change_source,optional_behavior_change_interventions,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,,,,,,,
+behavior_change_url,optional_behavior_change_interventions,,notes,url,,,,,,,,,,,,,
+fund_research_type_status,optional_public_funding_of_research,,checkbox,"Have there been any changes in investment of public funds for these particular research areas ? ","1, Treatment development | 2, Vaccine development | 3, Public health strategies research | 4, Clinical studies | 5, Economic and social studies research | 6, Natural history studies | 7, Serological surveys",,,,,,,,,,,,
+fund_research_trt_t,optional_public_funding_of_research,,text,"Date of policy change (Treatment development)",,,date_dmy,2019-12-30,,,[fund_research_type_status(1)]=1,,,,,,
+fund_research_vaccine_t,optional_public_funding_of_research,,text,"Date of policy change (Vaccine development)",,,date_dmy,2019-12-30,,,[fund_research_type_status(2)]=1,,,,,,
+fund_research_pubhlth_t,optional_public_funding_of_research,,text,"Date of policy change (Public health strategies)",,,date_dmy,2019-12-30,,,[fund_research_type_status(3)]=1,,,,,,
+fund_research_clinical_t,optional_public_funding_of_research,,text,"Date of policy change (Clinical studies)",,,date_dmy,2019-12-30,,,[fund_research_type_status(4)]=1,,,,,,
+fund_research_econ_t,optional_public_funding_of_research,,text,"Date of policy change (Economic and social studies)",,,date_dmy,2019-12-30,,,[fund_research_type_status(5)]=1,,,,,,
+fund_research_natural_t,optional_public_funding_of_research,,text,"Date of policy change (Natural history studies)",,,date_dmy,2019-12-30,,,[fund_research_type_status(6)]=1,,,,,,
+fund_research_econ_t_3,optional_public_funding_of_research,,text,"Date of policy change (Serological surveys)",,,date_dmy,2019-12-30,,,[fund_research_type_status(7)]=1,,,,,,
+fund_research_desc,optional_public_funding_of_research,,notes,Details,,,,,,,,,,,,,
+fund_research_source,optional_public_funding_of_research,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,,,,,,,
+fund_research_url,optional_public_funding_of_research,,notes,url,,,,,,,,,,,,,
+econ_social_type_status,optional_economic_social_safety_net_measures,,checkbox,"Have there be any changes to policy surrounding the following measures? 
+
+","1, Monetary policy (interest rate reductions) | 2, Trade restrictions or controls | 3, Economic stimulus (new loans, subsidies, business bailout) | 4, Economic safety net (cash payments, food supplies, housing) | 5, Appropriation of public property for the response | 6, Appropriation of private property for the response | 7, Redeployment of public assets for manufacturing or logistics | 8, Redeployment of private assets for manufacturing or logistics",,,,,,,,,,,,
+econ_social_monetary_t,optional_economic_social_safety_net_measures,,text,"Date of policy change (Monetary Policy)",,,date_dmy,2019-12-30,,,[econ_social_type_status(1)]=1,,,,,,
+econ_social_trade_t,optional_economic_social_safety_net_measures,,text,"Date of policy change (Trade restrictions)",,,date_dmy,2019-12-30,,,[econ_social_type_status(2)]=1,,,,,,
+econ_social_stimulus_t,optional_economic_social_safety_net_measures,,text,"Date of policy change (Economic stimulus)",,,date_dmy,2019-12-30,,,[econ_social_type_status(3)]=1,,,,,,
+econ_social_safetynet_t,optional_economic_social_safety_net_measures,,text,"Date of policy change (Economic safety net)",,,date_dmy,2019-12-30,,,[econ_social_type_status(4)]=1,,,,,,
+econ_social_pubprop_t,optional_economic_social_safety_net_measures,,text,"Date of policy change (Appropriate public property)",,,date_dmy,2019-12-30,,,[econ_social_type_status(5)]=1,,,,,,
+econ_social_privprop_t,optional_economic_social_safety_net_measures,,text,"Date of policy change (Appropriate private property)",,,date_dmy,2019-12-30,,,[econ_social_type_status(6)]=1,,,,,,
+econ_social_pubasset_t,optional_economic_social_safety_net_measures,,text,"Date of policy change (Redeploy public assets)",,,date_dmy,2019-12-30,,,[econ_social_type_status(7)]=1,,,,,,
+econ_social_privasset_t,optional_economic_social_safety_net_measures,,text,"Date of policy change (Redeploy private assets)",,,date_dmy,2019-12-30,,,[econ_social_type_status(8)]=1,,,,,,
+econ_social_desc,optional_economic_social_safety_net_measures,,notes,Details,,,,,,,,,,,,,
+econ_social_source,optional_economic_social_safety_net_measures,,file,"Source document(s) ",,"Make a pdf from the source document(s) and upload here. If multiple documents create a .zip file and upload the zipped directory.",,,,,,,,,,,
+econ_social_url,optional_economic_social_safety_net_measures,,notes,url,,,,,,,,,,,,,
