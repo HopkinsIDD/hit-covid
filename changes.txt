@@ -1,3 +1,30 @@
 Date	Change
 02-05-2020: added structured list of US counties (usa_counties)
 11-05-2020: status_simp label "Not Implemented" changed to "Implementation Suspended"
+22-05-2020: 
+(1) required/recommended questions no longer asked when status is Open
+(2) added new fields to capture policies limiting capacity and requiring symptom screening. New fields are:
+	- nursery_school_closed_capacity - limits on capacity at nursery schools
+	- nursery_school_closed_ss - symptom screening at nursery schools
+	- primary_school_closed_capacity - limits on capacity at primary schools
+	- primary_school_closed_ss - symptom screening at primary schools
+	- secondary_school_closed_capacity - limits on capacity at secondary schools
+	- secondary_school_closed_ss - symptom screening at secondary schools
+	- postsec_school_closed_capacity - limits on capacity at postsec schools
+	- postsec_school_closed_ss - symptom screening at postsec schools
+	- nursing_home_closed_capacity: limited visiting hours/visitors at nursing homes
+	- nursing_home_closed_ss: symptom screening at nursing homes
+	- office_closed_capacity: workplace reduced capacity
+	- office_closed_ss: workplace symptom screening
+	- restaurant_closed_ss: restaurant symptom screening
+	- restaurant_closed_capacity: restaurant limited capacity
+	- store_closed_ss: symptom screening at retail stores
+	- store_closed_capacity: limited capacity at retail stores
+	- public_transport_closed_ss: symptom screening related to public transport 
+	- public_transport_closed_capacity: limited capacity for public transport
+	- public_space_closed_capacity: limited capacity for public spaces
+28-05-2020: added new occupancy and symptom screening fields for leisure, entertainment and religious survey. 
+	- entertainment_closed_ss: symptom screening at L,E and R venues for patrons?
+	- entertainment_closed_capacity: limited capacity at l,e and r venues? 
+02-06-2020: removed religion from entertainment and leisure and added new questions specifically about religious venue closures.
+	- religious_closed_ss
