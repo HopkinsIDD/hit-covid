@@ -19,7 +19,9 @@ We have developed our processes of data collection and entry to try to ensure hi
 
 ### Key Data Fields 
 
-There are two main data files in our database, the 
+There are two main data files in our database, `hit-covid-longdata.csv` and `hit-covid-completeness.csv`. The primary data file, `hit-covid-longdata.csv` contains all intervention data logged (in long form) with `hit-covid-completeness.csv` providing an overview of the completeness of logged interventions for different PHSM domains and geographic areas. 
+
+#### `hit-covid-longdata.csv`
 
 • record_id: unique id of record (note that a single record is generated each time a set of data are entered so these can be shared across interventions)
 
@@ -62,6 +64,9 @@ There are two main data files in our database, the
 • entry_quality: Have these interventions gone through internal audit?
 
 • details: Any specific comments left?
+
+#### `hit-covid-completeness.csv`
+
 
 
 ## Mangement Team
