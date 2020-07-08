@@ -80,6 +80,6 @@ This dataset is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Acknowledgments
 
-* Our nifty website was designed by Matt Berg and XX from [ona.io](https://ona.io/home/)
+* Our nifty website was designed by Matt Berg and Dan McCarey from [ona.io](https://ona.io/home/)
 
 Contact: Andrew Azman (azman@jhu.edu) or hit-covid@jhu.edu
