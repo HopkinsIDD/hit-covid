@@ -23,50 +23,42 @@ There are two main data files in our database, `hit-covid-longdata.csv` and `hit
 
 #### `hit-covid-longdata.csv`
 
-• record_id: unique id of record (note that a single record is generated each time a set of data are entered so these can be shared across interventions)
+- unique_id: unique id for the row combining the record_id and the intervention
+- record_id: unique id of the REDCap record (note that a single record is generated each time a set of data are entered so these can be shared across interventions)
+- entry_time: time and date when data were entered by the contributor
+- national entry: flag for whether this is a national-level policy
+- country: ISO 3166-1 alpha-3 country code  
+- country_name: country name
+- admin1: first administrative unit code (following GADM5 unless otherwise noted)
+- admin1_name: level 1 administrative unit name
+- locality: specified geographic areas below level 1
+- usa_county: name of county for USA county-level data
+- usa_county_code: FIPS code of the USA county
+- intervention_group: code that groups interventions by type
+- intervention: name of the specific intervention
+- date_of_update: date of updated status to policy implementation for a particular intervention
+- status: updated status of intervention policy
+- status_simp: simplified updated status of policy (partially implemented, strongly implemented, implementation suspended)
+- subpopulation: sub-population that the status of the specific intervention applies to
+- required: is the specific intervention required or recommended?
+- enforcement: are police/military enforcing the specific intervention?
+- size: what is the size of groups allowed for social gatherings or in restaurants?
+- duration: what is the duration of quarantine or self-isolation?
+- testing_population: sub-populations of symptomatic or asymptomatic populations tested
+- details: any specific details about the policy update
+- source_document_url: URL for the source document(s) stored on Dropbox
+- url: URL(s) provided by the contributors for the policy update
+- entry_quality: have these interventions been confirmed by the contributors (Verified, Changes pending, or Unverified)
 
-• entry_time: time that data were entered
-
-• national entry: flag for whether this is a national-level policy
-
-• country: ISO country code
-
-• country_name: Name of Country
-
-• admin1: Level 1 Administrative Unit Code
-
-• admin1_name: Level 1 Administrative Unit Code
-
-• locality: specified geographic areas below level 1
-
-• intervention_specific_clean: Intervention type
-
-• t: Date of updated status to policy implementation for a particular intervention
-
-• status: Updated status of policy
-
-• status_simp: Simplified updated status of policy (Not implemented, partially implemented, or strongly implemented)
-
-• subpopulation: Sub-population that the status of the specific intervention applies to
-
-• required: Is the specific intervention required or recommended?
-
-• enforcement: Are police/military enforcing the specific intervention?
-
-• size: What is the size of groups allowed for social gatherings or in restaurants?
-
-• duration: What is the duration of quarantine or self-isolation?
-
-• testing_population: Sub-populations of symptomatic or asymptomatic populations tested?
-
-• source_url: URL for the intervention section
-
-• entry_quality: Have these interventions gone through internal audit?
-
-• details: Any specific comments left?
 
 #### `hit-covid-completeness.csv`
 
+- country: ISO 3166-1 alpha-3 country code  
+- admin1: first administrative unit code (following GADM5 unless otherwise noted)
+- usa_county_data: does this completeness information refer to USA county-level data
+- intervention_group: code that groups interventions by type
+- date: date the contributor logged this completeness information
+- completeness: is this intervention information considered complete and up to date for level 1 administrative unit or country (Complete, Incomplete, Unsure)
 
 
 ## Mangement Team
