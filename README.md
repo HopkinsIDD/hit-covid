@@ -64,6 +64,7 @@ There are two main data files in our database, `hit-covid-longdata.csv` and `hit
 ## Mangement Team
 
 * Qulu Zheng, Johns Hopkins Bloomberg School of Public Health
+* Sophia Zweig, Johns Hopkins Bloomberg School of Public Health
 * Sarah V. Leavitt, Boston University School of Public Health
 * Lawson Ung, Harvard Medical School
 * Forrest K. Jones, Johns Hopkins Bloomberg School of Public Health
